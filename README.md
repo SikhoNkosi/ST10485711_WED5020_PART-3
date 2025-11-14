@@ -5,3 +5,9 @@ The Services page also includes a gallery filter so visitors can sort images by 
 On the Contact page, I embedded a real Google Map showing the Spar KwaMagxaki location in Port Elizabeth.
 Finally, I implemented a dark mode toggle that allows users to switch between light and dark themes, with their preference saved for future visits.
 Together, these improvements make the site more professional, interactive, and user-friendly, showcasing both design and coding skills.
+
+Spar International. (n.d). History. [online] at: https://spar-international.com/history/.
+
+Spar (2020). Spar. [online] Spar. Available at: https://www.spar.co.za/About-SPAR/Company
+
+Spar (2020). Our strategy and business model. [online] SPAR IR 2019. Available at: https://thespargroup.com/ir2019/strategy/our-strategy-and-business-model/.
